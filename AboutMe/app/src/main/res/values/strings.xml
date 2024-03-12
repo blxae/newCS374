@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Nico</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="bio">
+        Nico Middleton is an undergraduate student at Pace University. He is currently pursuing a
+        bachelors degree in Computer Science with a focus in Cyber-security. He is a current junior
+        and plans to graduate in May 2025.
+    </string>
+    <string name="hobbiesInfo">
+        I like to play the guitar and code.
+    </string>
+    <string name="contactPage">
+        My email is im07247n@pace.edu.
+    </string>
+    <string name="hobbies">hobbies</string>
+    <string name="Hobbies">Hobbies</string>
+    <string name="contact">Contact</string>
+    <string name="contactInfo">im07247n@pace.edu</string>
+    <string name="back">Back</string>
+    <string name="mail">Mail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
